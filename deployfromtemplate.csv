@@ -1,0 +1,2 @@
+basevm,vmcluster,custspec,vmname,vlan,totalcpu,corespersocket,memorygb,folder,pdisk,sdisk1,sdisk2,sdisk3,sdisk4,sdisk5,sdisk6,sdisk7,sdisk8,sdisk9,sdisk10
+WIN2012R2DC,AZ01-CC,Customization_spec,NET###,VLAN###,2,1,8,Staging,60,100,,,,,,,,,
